@@ -1,0 +1,330 @@
+{
+  "identifier": "CYCLECONTEXT-STOREKIT-2026",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "14.99",
+      "familyShareable": false,
+      "internalID": "CC-LIFETIME-2026",
+      "localizations": [
+        {
+          "description": "Dauerhafter Zugriff auf CycleContext",
+          "displayName": "CycleContext Lifetime",
+          "locale": "de"
+        },
+        {
+          "description": "Permanent access to CycleContext",
+          "displayName": "CycleContext Lifetime",
+          "locale": "en_GB"
+        },
+        {
+          "description": "Permanent access to CycleContext",
+          "displayName": "CycleContext Lifetime",
+          "locale": "en_US"
+        },
+        {
+          "description": "Accès permanent à CycleContext",
+          "displayName": "Accès permanent CycleContext",
+          "locale": "fr"
+        },
+        {
+          "description": "Acceso permanente a CycleContext",
+          "displayName": "Acceso permanente CycleContext",
+          "locale": "es"
+        },
+        {
+          "description": "Acesso permanente ao CycleContext",
+          "displayName": "Acesso permanente CycleContext",
+          "locale": "pt_BR"
+        },
+        {
+          "description": "Accesso permanente a CycleContext",
+          "displayName": "CycleContext permanente",
+          "locale": "it"
+        },
+        {
+          "description": "Постоянный доступ к CycleContext",
+          "displayName": "CycleContext: навсегда",
+          "locale": "ru"
+        },
+        {
+          "description": "وصول دائم إلى CycleContext",
+          "displayName": "وصول دائم إلى CycleContext",
+          "locale": "ar"
+        },
+        {
+          "description": "永久使用 CycleContext",
+          "displayName": "CycleContext 永久使用",
+          "locale": "zh_TW"
+        },
+        {
+          "description": "永久使用 CycleContext",
+          "displayName": "CycleContext 永久使用",
+          "locale": "zh_CN"
+        },
+        {
+          "description": "גישה קבועה ל־CycleContext",
+          "displayName": "גישה לכל החיים",
+          "locale": "he"
+        },
+        {
+          "description": "CycleContextを継続して利用できます",
+          "displayName": "CycleContext 買い切り",
+          "locale": "ja"
+        },
+        {
+          "description": "CycleContext를 계속 이용할 수 있습니다",
+          "displayName": "CycleContext 평생 이용",
+          "locale": "ko"
+        },
+        {
+          "description": "CycleContext का स्थायी एक्सेस",
+          "displayName": "CycleContext आजीवन एक्सेस",
+          "locale": "hi"
+        },
+        {
+          "description": "Постійний доступ до CycleContext",
+          "displayName": "CycleContext назавжди",
+          "locale": "uk"
+        },
+        {
+          "description": "สิทธิ์เข้าใช้ CycleContext อย่างถาวร",
+          "displayName": "CycleContext ใช้ได้ตลอดชีพ",
+          "locale": "th"
+        },
+        {
+          "description": "Quyền truy cập CycleContext vĩnh viễn",
+          "displayName": "CycleContext trọn đời",
+          "locale": "vi"
+        }
+      ],
+      "productID": "com.bentosoftware.CycleContext.lifetime",
+      "referenceName": "CycleContext Lifetime",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false,
+    "_billingGracePeriodEnabled": true,
+    "_billingIssuesEnabled": false,
+    "_developerTeamID": "WCSMX9WD2U",
+    "_disableDialogs": false,
+    "_failTransactionsEnabled": false,
+    "_locale": "de_DE",
+    "_renewalBillingIssuesEnabled": false,
+    "_storefront": "DEU",
+    "_storeKitErrors": [],
+    "_timeRate": 0
+  },
+  "subscriptionGroups": [
+    {
+      "id": "CC-ANNUAL-GROUP-2026",
+      "localizations": [
+        {
+          "description": "",
+          "displayName": "CycleContext Jahresabo",
+          "locale": "de"
+        },
+        {
+          "description": "",
+          "displayName": "CycleContext annual subscription",
+          "locale": "en_GB"
+        },
+        {
+          "description": "",
+          "displayName": "CycleContext annual subscription",
+          "locale": "en_US"
+        },
+        {
+          "description": "",
+          "displayName": "Abonnement annuel CycleContext",
+          "locale": "fr"
+        },
+        {
+          "description": "",
+          "displayName": "Suscripción anual CycleContext",
+          "locale": "es"
+        },
+        {
+          "description": "",
+          "displayName": "Assinatura anual CycleContext",
+          "locale": "pt_BR"
+        },
+        {
+          "description": "",
+          "displayName": "Abbonamento annuo CycleContext",
+          "locale": "it"
+        },
+        {
+          "description": "",
+          "displayName": "CycleContext: подписка на год",
+          "locale": "ru"
+        },
+        {
+          "description": "",
+          "displayName": "اشتراك CycleContext السنوي",
+          "locale": "ar"
+        },
+        {
+          "description": "",
+          "displayName": "CycleContext 年度訂閱",
+          "locale": "zh_TW"
+        },
+        {
+          "description": "",
+          "displayName": "CycleContext 年度订阅",
+          "locale": "zh_CN"
+        },
+        {
+          "description": "",
+          "displayName": "מנוי שנתי ל־CycleContext",
+          "locale": "he"
+        },
+        {
+          "description": "",
+          "displayName": "CycleContext 年間プラン",
+          "locale": "ja"
+        },
+        {
+          "description": "",
+          "displayName": "CycleContext 연간 구독",
+          "locale": "ko"
+        },
+        {
+          "description": "",
+          "displayName": "CycleContext वार्षिक सदस्यता",
+          "locale": "hi"
+        },
+        {
+          "description": "",
+          "displayName": "Річна підписка CycleContext",
+          "locale": "uk"
+        },
+        {
+          "description": "",
+          "displayName": "สมาชิก CycleContext รายปี",
+          "locale": "th"
+        },
+        {
+          "description": "",
+          "displayName": "Gói CycleContext hằng năm",
+          "locale": "vi"
+        }
+      ],
+      "name": "CycleContext Access",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "4.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "CC-ANNUAL-2026",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Vollständiger Zugriff auf CycleContext",
+              "displayName": "CycleContext Jahresabo",
+              "locale": "de"
+            },
+            {
+              "description": "Full access to CycleContext",
+              "displayName": "CycleContext annual subscription",
+              "locale": "en_GB"
+            },
+            {
+              "description": "Full access to CycleContext",
+              "displayName": "CycleContext annual subscription",
+              "locale": "en_US"
+            },
+            {
+              "description": "Accès complet à CycleContext",
+              "displayName": "Abonnement annuel CycleContext",
+              "locale": "fr"
+            },
+            {
+              "description": "Acceso completo a CycleContext",
+              "displayName": "Suscripción anual CycleContext",
+              "locale": "es"
+            },
+            {
+              "description": "Acesso completo ao CycleContext",
+              "displayName": "Assinatura anual CycleContext",
+              "locale": "pt_BR"
+            },
+            {
+              "description": "Accesso completo a CycleContext",
+              "displayName": "Abbonamento annuo CycleContext",
+              "locale": "it"
+            },
+            {
+              "description": "Полный доступ к CycleContext",
+              "displayName": "CycleContext: подписка на год",
+              "locale": "ru"
+            },
+            {
+              "description": "وصول كامل إلى CycleContext",
+              "displayName": "اشتراك CycleContext السنوي",
+              "locale": "ar"
+            },
+            {
+              "description": "完整使用 CycleContext",
+              "displayName": "CycleContext 年度訂閱",
+              "locale": "zh_TW"
+            },
+            {
+              "description": "完整使用 CycleContext",
+              "displayName": "CycleContext 年度订阅",
+              "locale": "zh_CN"
+            },
+            {
+              "description": "גישה מלאה ל־CycleContext",
+              "displayName": "מנוי שנתי ל־CycleContext",
+              "locale": "he"
+            },
+            {
+              "description": "CycleContextの全機能を利用できます",
+              "displayName": "CycleContext 年間プラン",
+              "locale": "ja"
+            },
+            {
+              "description": "CycleContext의 모든 기능을 이용할 수 있습니다",
+              "displayName": "CycleContext 연간 구독",
+              "locale": "ko"
+            },
+            {
+              "description": "CycleContext का पूरा एक्सेस",
+              "displayName": "CycleContext वार्षिक सदस्यता",
+              "locale": "hi"
+            },
+            {
+              "description": "Повний доступ до CycleContext",
+              "displayName": "Річна підписка CycleContext",
+              "locale": "uk"
+            },
+            {
+              "description": "สิทธิ์เข้าใช้ CycleContext แบบเต็มรูปแบบ",
+              "displayName": "สมาชิก CycleContext รายปี",
+              "locale": "th"
+            },
+            {
+              "description": "Quyền truy cập đầy đủ vào CycleContext",
+              "displayName": "Gói CycleContext hằng năm",
+              "locale": "vi"
+            }
+          ],
+          "productID": "com.bentosoftware.CycleContext.annual",
+          "recurringSubscriptionPeriod": "P1Y",
+          "referenceName": "CycleContext Annual",
+          "subscriptionGroupID": "CC-ANNUAL-GROUP-2026",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 5,
+    "minor": 0
+  }
+}
